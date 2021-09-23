@@ -19,14 +19,17 @@
 
 ## Project 📫
 #### Repository 📚
+```sh
 - Instagram & Twitter Crawling (Python) 2020-08
 - Car-Size Information Crawling & K-Means (Python & R) 2021-01 ~ 2021-02
 - Box-Sizing Prediction Using LSTM & SVM (Python & R) 2021-01 ~ 2021-02
 - MK_OASIS (Node.js) 2020-12 ~ 2021-02
 - CGT (Springboot & React) 2021-08 ~ ing.
-
+```
 #### Others 🔖
+```sh
 - HannamUniv. Student Analysis for employments (R) 2018-10 ~ 2020-02
 - HannamUniv. HTQM info(Student) basic statistic analysis 2020-07 ~ 2020-08
 - Ultimatum of Tourism, Bigdata-Anaysis Competition `{Excellence Award}` 2020-07 ~ 2020-10 (R & Python)
 - Etc.. 
+```
