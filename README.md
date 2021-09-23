@@ -28,5 +28,5 @@
 #### Others 🔖
 - HannamUniv. Student Analysis for employments (R) 2018-10 ~ 2020-02
 - HannamUniv. HTQM info(Student) basic statistic analysis 2020-07 ~ 2020-08
-- Ultimatum of Tourism, Bigdata-Anaysis Competion `{Excellence Award}` 2020-07 ~ 2020-10 (R & Python)
+- Ultimatum of Tourism, Bigdata-Anaysis Competition `{Excellence Award}` 2020-07 ~ 2020-10 (R & Python)
 - Etc.. 
