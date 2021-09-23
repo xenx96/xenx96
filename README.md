@@ -1,4 +1,4 @@
-### Hi there 👋
+## Profile 👋
 
 <!--
 **xenx96/xenx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
