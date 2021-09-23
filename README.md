@@ -1,20 +1,32 @@
-## Profile 👋
+# Profile 👋
 - NAME : Yoo DaeSun
 - KoreanAge : 26
-- Major : {BigData, Business-Statistic} in Hannam Univ.
+- Major : `{BigData, Business-Statistic}` in Hannam Univ.
 - Work : Data-Analysis, Back-End Developer 
 
-<!--
-**xenx96/xenx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills ⚡
+#### Web-FrameWork & Language
+<img src="https://img.shields.io/badge/Node.js-3DDC84?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Springboot&logoColor=Green&color=white"/>
+<img src="https://img.shields.io/badge/React-3DDC84?style=flat&logo=React&logoColor=skyblue&color=darkblue"/>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/JAVA-3DDC84?style=flat&logo=java&logoColor=red&color=white"/> <img src="https://img.shields.io/badge/JS-3DDC84?style=flat&logo=JavaScript&logoColor=blue&color=white"/> <img src="https://img.shields.io/badge/Python-3DDC84?style=flat&logo=Python&logoColor=blue-yellow&color=white"/> <img src="https://img.shields.io/badge/R-3DDC84?style=flat&logo=R&logoColor=blue&color=white"/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+<img src="https://img.shields.io/badge/VSC-3DDC84?style=flat&logo=VisualStudioCode&logoColor=blue&color=white"/> <img src="https://img.shields.io/badge/AWS-6DB33F?style=flat&logo=amazonAWS&logoColor=black&color=white"/>
+<img src="https://img.shields.io/badge/Github-3DDC84?style=flat-square&logo=Github&logoColor=white&color=purple"/>
+
+
+
+## Project 📫
+#### Repository
+- Instagram & Twitter Crawling (Python) 2020-08
+- Car-Size Information Crawling & K-Means (Python & R) 2021-01 ~ 2021-02
+- Box-Sizing Prediction Using LSTM & SVM (Python & R) 2021-01 ~ 2021-02
+- MK_OASIS (Web) 2020-12 ~ 2021-02
+- CGT (Web) 2021-08 ~ ing.
+
+#### Others
+- HannamUniv. Student Analysis for employments (R) 2018-10 ~ 2020-02
+- HannamUniv. HTQM info(Student) basic statistic analysis 2020-07 ~ 2020-08
+- Ultimatum of Tourism, Bigdata-Anaysis Competion `Excellence Award` 2020-07 ~ 2020-10 (R & Python)
+- Etc.. 
