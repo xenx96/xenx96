@@ -22,8 +22,8 @@
 - Instagram & Twitter Crawling (Python) 2020-08
 - Car-Size Information Crawling & K-Means (Python & R) 2021-01 ~ 2021-02
 - Box-Sizing Prediction Using LSTM & SVM (Python & R) 2021-01 ~ 2021-02
-- MK_OASIS (Web) 2020-12 ~ 2021-02
-- CGT (Web) 2021-08 ~ ing.
+- MK_OASIS (Node.js) 2020-12 ~ 2021-02
+- CGT (Springboot & React) 2021-08 ~ ing.
 
 #### Others
 - HannamUniv. Student Analysis for employments (R) 2018-10 ~ 2020-02
