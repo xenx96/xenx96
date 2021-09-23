@@ -1,4 +1,8 @@
 ## Profile 👋
+- NAME : Yoo DaeSun
+- KoreanAge : 26
+- Major : {BigData, Business-Statistic} in Hannam Univ.
+- Work : Data-Analysis, Back-End Developer 
 
 <!--
 **xenx96/xenx96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
