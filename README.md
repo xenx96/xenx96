@@ -34,3 +34,6 @@
 - Ultimatum of Tourism, Bigdata-Anaysis Competition `{Excellence Award}` 2020-07 ~ 2020-10 (R & Python)
 - Etc.. 
 ```
+
+#### Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
