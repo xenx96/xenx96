@@ -1,7 +1,7 @@
 # Profile 👋
 - NAME : Yoo DaeSun
 - KoreanAge : 26
-- Major : `{BigData, Business-Statistic}` in Hannam Univ.
+- Major : `{"BigData", "Business-Statistic"}` in Hannam Univ.
 - Work : Data-Analysis, Back-End Developer 
 
 ## Skills ⚡
