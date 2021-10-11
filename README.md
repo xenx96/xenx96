@@ -3,7 +3,7 @@
 - KoreanAge : 26
 - Major : `{"BigData", "Business-Statistic"}` in Hannam Univ.
 - Work : Data-Analysis, Back-End Developer 
-- Ing : 1(One)Day - 1(Over One)Commit
+- ~Ing : `1(One)Day- 1(Over One)Commit`
 
 ## Skills ⚡
 #### Web-FrameWork & Language 💭
