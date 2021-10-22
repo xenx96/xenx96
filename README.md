@@ -14,6 +14,7 @@
 
 #### Tools 🔨
 <img src="https://img.shields.io/badge/VSC-3DDC84?style=flat&logo=VisualStudioCode&logoColor=blue&color=white"/> <img src="https://img.shields.io/badge/AWS-6DB33F?style=flat&logo=amazonAWS&logoColor=black&color=white"/> 
+<img src="https://img.shields.io/badge/Jenkins-3DDC84?style=flat-square&logo=Jenkins&logoColor=black&color=white"/> 
 <img src="https://img.shields.io/badge/Ubuntu-3DDC84?style=flat-square&logo=Ubuntu&logoColor=orange&color=white"/> 
 <img src="https://img.shields.io/badge/Github-3DDC84?style=flat-square&logo=Github&logoColor=white&color=purple"/> 
 
