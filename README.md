@@ -39,9 +39,6 @@
 ```
 
 #### Status
-- Public Repository
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenx96&show_icons=true&theme=synthwave)](https://github.com/xenx96)
 - Public & Private Repository
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenx96&count_private=true&show_icons=true&theme=synthwave)](https://github.com/xenx96)
