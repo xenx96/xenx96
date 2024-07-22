@@ -7,6 +7,7 @@
 ## Skills ⚡
 #### Web-FrameWork & Language 💭
 <img src="https://img.shields.io/badge/Node.js-3DDC84?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Springboot&logoColor=Green&color=white"/>
+<img src="https://img.shields.io/badge/Golang-6DB33F?style=flat&logo=Go&logoColor=Blue&color=white"/>
 
 <img src="https://img.shields.io/badge/JAVA-3DDC84?style=flat&logo=java&logoColor=red&color=white"/> <img src="https://img.shields.io/badge/JS-3DDC84?style=flat&logo=JavaScript&logoColor=blue&color=white"/> <img src="https://img.shields.io/badge/Python-3DDC84?style=flat&logo=Python&logoColor=blue-yellow&color=white"/> <img src="https://img.shields.io/badge/R-3DDC84?style=flat&logo=R&logoColor=blue&color=white"/>  
 
