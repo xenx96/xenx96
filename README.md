@@ -1,14 +1,12 @@
 # Profile 👋
 - NAME : Yoo DaeSun
-- KoreanAge : 26
+- KoreanAge : 29
 - Major : `{"BigData", "Business-Statistic"}` in Hannam Univ.
-- Work : Data-Analysis, Back-End Developer 
-- ~Ing : `1(One)Day- 1(Over One)Commit`
+- Work : Data-Analysis, Data Engineer
 
 ## Skills ⚡
 #### Web-FrameWork & Language 💭
 <img src="https://img.shields.io/badge/Node.js-3DDC84?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Springboot&logoColor=Green&color=white"/>
-<img src="https://img.shields.io/badge/React-3DDC84?style=flat&logo=React&logoColor=skyblue&color=darkblue"/>
 
 <img src="https://img.shields.io/badge/JAVA-3DDC84?style=flat&logo=java&logoColor=red&color=white"/> <img src="https://img.shields.io/badge/JS-3DDC84?style=flat&logo=JavaScript&logoColor=blue&color=white"/> <img src="https://img.shields.io/badge/Python-3DDC84?style=flat&logo=Python&logoColor=blue-yellow&color=white"/> <img src="https://img.shields.io/badge/R-3DDC84?style=flat&logo=R&logoColor=blue&color=white"/>  
 
@@ -27,8 +25,11 @@
 - Car-Size Information Crawling & K-Means (Python & R) 2021-01 ~ 2021-02
 - Box-Sizing Prediction Using LSTM & SVM (Python & R) 2021-01 ~ 2021-02
 - MK_OASIS (Node.js) 2020-12 ~ 2021-02
-- CGT (Springboot & React) 2021-08 ~ ing.
-- CloneCoding JigBang(Node & React) 2021-10 ~ ing.
+```
+#### Company
+```
+- MK Corp(2020-09 ~ 2021-02)
+- StandardEnergy Corp (2021-11-08 ~ 2024-07-31)
 ```
 #### Others 🔖
 ```sh
